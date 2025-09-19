@@ -44,8 +44,8 @@ These counts provide the baseline measure for each type of family and/or safety 
 
 ## Files
 
-- [**Codes**](https://github.com/csdul/hub_individual_health/tree/main/casdohi/codes): Contains scripts or algorithms used to calculate and process the indicator.
-- [**Documents**](https://github.com/csdul/hub_individual_health/tree/main/casdohi/documents): Includes detailed documentation outlining the methodology, purpose, and any relevant notes for the indicator.
-- [**Data**](https://github.com/csdul/hub_individual_health/tree/main/casdohi/data): Contains the data used for calculating or representing the indicator.
-- [**Results**](https://github.com/csdul/hub_individual_health/tree/main/casdohi/results): Table with the indicators calculated.
+- [**Codes**](https://github.com/csdul/socioeconomic_context/tree/main/family_recreation_and_safety_resources/codes): Contains scripts or algorithms used to calculate and process the indicator.
+- [**Documents**](https://github.com/csdul/socioeconomic_context/tree/main/family_recreation_and_safety_resources/documents): Includes detailed documentation outlining the methodology, purpose, and any relevant notes for the indicator.
+- [**Data**](https://github.com/csdul/socioeconomic_context/tree/main/family_recreation_and_safety_resources/data): Contains the data used for calculating or representing the indicator.
+- [**Results**](https://github.com/csdul/socioeconomic_context/tree/main/family_recreation_and_safety_resources/results): Table with the indicators calculated.
 
