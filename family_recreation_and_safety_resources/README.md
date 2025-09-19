@@ -1,4 +1,4 @@
-# Family, Recreation & Safety Resources (FRSR) Indicators
+# Family, Recreation & Safety Resources 
 
 The **Family, Recreation & Safety Resources (FRSR)** indicators represent community amenities and resources that support families, recreation, and safety. These indicators capture essential infrastructure contributing to family well-being, community support, and public safety.
 
