@@ -21,7 +21,7 @@ The **Family, Recreation & Safety Resources (FRSR)** indicators represent commun
 
 ## Methodology
 
-The FRSR indicators are derived through a structured approach involving **data collection, classification, and counting** across census tracts.
+The FRSR indicators are derived through a structured approach involving **data collection, classification, and counting** across census tracts. 
 
 ### Data Collection and Classification
 FRSR indicators are based on data from **DMTI Spatial**, which provides information on various community resources across Canada. Resources are categorized using **Standard Industrial Classification (SIC) codes**, which identify specific resource types such as education facilities, food stores, recreation facilities, and police/fire stations.  
@@ -36,6 +36,8 @@ The raw data are accessible to any researcher at a university that holds a **Sch
 ### Counting Resources by Census Tract
 For each census tract, the number of resources in each category (e.g., education facilities, food stores) is tallied.  
 These counts provide the baseline measure for each type of family and/or safety resource within the census tract.
+
+For more details about the methodology, visit the document: [**Indicators Development and Screening**] (https://github.com/csdul/socioeconomic_context/blob/main/family_recreation_and_safety_resources/documents/indicator_development_and_screening.docx).
 
 ## [Datasets](https://github.com/csdul/pre_beta_datasets)
 
