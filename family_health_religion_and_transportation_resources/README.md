@@ -7,16 +7,16 @@ The **Family, Health, Religion & Transportation Resources (FHRTR)** represent co
 These include:
 
 - **Family and social support services**  
-  - Examples: child day care services, job training programs, individual and family service centres
+  Examples: child day care services, job training programs, individual and family service centres
 
 - **Health care access points**  
-  - Examples: primary care clinics, dentists, optometrists, mental health practitioners
+  Examples: primary care clinics, dentists, optometrists, mental health practitioners
 
 - **Religious and cultural gathering sites**  
-  - Examples: churches, temples, synagogues, spiritual community centres
+  Examples: churches, temples, synagogues, spiritual community centres
 
 - **Local and public transportation services**  
-  - Examples: transit stations, local bus routes, school transportation
+  Examples: transit stations, local bus routes, school transportation
 
 ## Methodology
 
