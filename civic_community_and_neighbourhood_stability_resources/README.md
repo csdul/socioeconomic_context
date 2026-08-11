@@ -130,10 +130,10 @@ Using the **CTUID**, CCNSR indicators can also be joined with other datasets ava
 
 For additional information about the construction, validation, and interpretation of the indicators, see:
 
-- [**Indicator Development and Screening – CCNSR**](documents/Indicator%20Development%20and%20Screening_CCNSR.docx)
-- [**Spot Check Queries and Recommendations – CCNSR**](documents/Spot%20Check%20Queries%20and%20Recommendations_Node%203_CCNSR.docx)
-- [**Add Inputs to CSDUL – CCNSR Indicators and Counts**](documents/Add%20Inputs%20to%20CSDUL%20-%20Node%203_CCNSR%20Indicators%20and%20Counts.docx)
-- [**Civic, Community, and Neighbourhood Stability Resources Codebook**](documents/Civic%2C%20Community%2C%20and%20Neighbourhood%20Stability%20Resources_Codebook_Node%203.docx)
+- [**Indicator Development and Screening – CCNSR**](https://github.com/csdul/socioeconomic_context/blob/main/civic_community_and_neighbourhood_stability_resources/documents/indicator_development_and_screening_ccnsr.docx)
+- [**Spot Check Queries and Recommendations – CCNSR**](https://github.com/csdul/socioeconomic_context/blob/main/civic_community_and_neighbourhood_stability_resources/documents/spot_check_queries_and_recommendations_node%203_ccnsr.docx)
+- [**Add Inputs to CSDUL – CCNSR Indicators and Counts**](https://github.com/csdul/socioeconomic_context/blob/main/civic_community_and_neighbourhood_stability_resources/documents/add_nputs_to_csdul_node%203_ccnsr_indicators_and_counts.doc)
+- [**Civic, Community, and Neighbourhood Stability Resources Codebook**](https://github.com/csdul/socioeconomic_context/blob/main/civic_community_and_neighbourhood_stability_resources/documents/civic_community_and_neighbourhood_stability_resources_codebook_node%203.docx)
 
 ## Files
 
