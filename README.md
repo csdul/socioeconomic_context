@@ -7,6 +7,7 @@ In addition, this Node will incorporate the [**Canadian Social Environment Typol
 ## List of Indicators
 - [Family, Recreation, and Safety Resources](https://github.com/csdul/socioeconomic_context/tree/main/family_recreation_and_safety_resources)
 - [Family, Health, Religion, and Transportation Resources](https://github.com/csdul/socioeconomic_context/tree/main/family_health_religion_and_transportation_resources)
+- [Civic, Community, and Neighourhood Stability Resources](https://github.com/csdul/socioeconomic_context/tree/main/civic_community_and_neighbourhood_stability_resources)
   
 ## References
 [^1]: Reimer B. *Social Exclusion through Lack of Access to Social Support in Rural Areas.* In: Fréchet G, Gauvreau D, Poirier J, eds. *Statistiques Sociales, Pauvreté et Exclusion Sociale, Perspectives Québécoises, Canadiennes et Internationales.* Presses de l’Université de Montréal; 2011:152-160.  
