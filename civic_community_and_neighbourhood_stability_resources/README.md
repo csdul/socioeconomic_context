@@ -63,7 +63,7 @@ The data are provided by **Digital Map Technologies Inc. (DMTI)**, a Canadian co
 
 The raw data are accessible to researchers at universities that hold a **Scholars GeoPortal license**.
 
-➡️ More information on **DMTI Spatial** and **SIC codes** can be found [here](https://www.ic.gc.ca/eic/site/cis-sic.nsf/eng/home).
+More information on **DMTI Spatial** and **SIC codes** can be found [here](https://www.ic.gc.ca/eic/site/cis-sic.nsf/eng/home).
 
 ### Counting Resources by Census Tract
 
